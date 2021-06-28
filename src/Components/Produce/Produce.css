@@ -1,0 +1,13 @@
+table, td, th {
+  border: 1px black solid;
+  vertical-align: top;
+}
+
+th {
+  font-weight:bold;
+}
+
+#ProdList, #ProdList table {
+  margin-left: auto;
+  margin-right: auto;
+}
